@@ -1,0 +1,43 @@
+datas:
+ - [1, 2, 3]
+ - [100,200,300]
+ - [1000,2000,3000]
+  #[[],[],[]]
+
+
+
+
+ids:
+  - 'int1'
+  - 'int2'
+  - 'int3'
+
+#['int1','int1','int1']
+
+float_datas:
+  - [0.1,0.2,0.3]
+
+float_ids:
+  - 'float1'
+
+float_muldatas:
+  - [0.1,0.2,0.02]
+
+float_mulids:
+  - 'float1'
+
+
+divdatas:
+  - [1,0,False]
+  - [1,2,0.5]
+  - [10,2,5]
+
+divids:
+  - 'zero'
+  - '浮点数'
+  - 'int1'
+
+
+
+
+
